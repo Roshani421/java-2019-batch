@@ -6,7 +6,7 @@ class Pcon {
 
  
    Pcon(String name) {
-   name = "aashish";
+   name = "roshani";
     fname = name;
     System.out.println(fname + "aashish");
     
@@ -16,7 +16,7 @@ class Pcon {
   public static void main(String[] args) {
 
     
-    Pcon obj = new Pcon("aashish");
+    Pcon obj = new Pcon("roshani");
 
   }
 }
