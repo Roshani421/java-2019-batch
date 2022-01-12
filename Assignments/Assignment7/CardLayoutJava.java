@@ -14,8 +14,8 @@ public class CardLayoutJava extends JFrame implements ActionListener{
 		c.setLayout(card);
 		c.setBackground(Color.green);  
 
-		b1=new JButton("Safal");    
-		b2=new JButton("Bhandari");    
+		b1=new JButton("Roshani");    
+		b2=new JButton("Subedi");    
 		b3=new JButton("2nd Yrs"); 
 		b4=new JButton("My all info");    
 		b1.addActionListener(this);    
